@@ -1,0 +1,16 @@
+.backImage {
+  background-image: url(../img/backImage.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 23em; }
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  gap: 20px;
+  width: 100%;
+  height: 80px;
+  background-color: transparent;
+  position: absolute; }
